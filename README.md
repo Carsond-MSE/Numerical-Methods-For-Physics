@@ -1,2 +1,2 @@
 # Numerical-Methods-For-Physics
-Exercises From Alejandro L. Garcia's Book
+Exercises From Alejandro L. Garcia's Book Numerical Methods For Physics
