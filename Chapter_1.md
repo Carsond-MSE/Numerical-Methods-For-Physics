@@ -17,7 +17,7 @@ else
     fprintf('Dot product = %g \n',r1_dot_r2)
 end
 
-orthogN - Program to test if a pair of vectors in any space are orthagonal.
+%orthogN - Program to test if a pair of vectors in any space are orthagonal.
 clear all;
 r1=input('Enter r1, include brackets, following the notation "[a b c ... n]":')
 r2=input('Enter r2 (make sure it is the same length as r1!):')
@@ -45,7 +45,7 @@ else
     fprintf('Dot product = %g \n',r1_dot_r2)
 end
 
-n!!
+$n!! double factorial
 clear all
 n=input('input n=')
 
