@@ -1,5 +1,6 @@
 ```matlab
-%orthog3 - Program to test if a pair of vectors in 3D space is orthagonal. 
+%% orthog3 - Program to test if a pair of vectors in 3D space is orthagonal
+
 clear all; help orthog;
 r1=input('Enter r1, include brackets, following the notation "[a b c]":')
 r2=input('Enter r2, follow vector input notation:')
@@ -17,7 +18,8 @@ else
     fprintf('Dot product = %g \n',r1_dot_r2)
 end
 
-%orthogN - Program to test if a pair of vectors in any space are orthagonal.
+%% orthogN - Program to test if a pair of vectors in any space are orthagonal
+
 clear all;
 r1=input('Enter r1, include brackets, following the notation "[a b c ... n]":')
 r2=input('Enter r2 (make sure it is the same length as r1!):')
@@ -45,7 +47,8 @@ else
     fprintf('Dot product = %g \n',r1_dot_r2)
 end
 
-$n!! double factorial
+%% dubFactorial - Approximates the double factorial of n
+
 clear all
 n=input('input n=')
 
